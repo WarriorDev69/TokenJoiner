@@ -1,0 +1,5 @@
+[main]
+threads = 50
+retries = 10
+proxyless = true
+capmonster = ""
