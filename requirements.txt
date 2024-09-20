@@ -1,0 +1,8 @@
+colorama
+httpx
+pystyle
+requests
+user_agent
+tls_client
+requests
+toml
